@@ -9,9 +9,8 @@ I'm currently working for a company called **[E-soft](https://esoft.tech/)**. Th
 
 **My everyday tools:**
 <p align="left"> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/Dashboard/blob/main/icons-figma.svg" alt="figma" width="30" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/Dashboard/blob/main/icons-java.svg" alt="figma" width="30" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/Dashboard/blob/main/icons-javascript1.svg" alt="figma" width="30" height="40"/> </a> 
+<a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/Dashboard/blob/main/icons-java.svg" alt="figma" width="30" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/Dashboard/blob/main/icons-javascript1.svg" alt="figma" width="30" height="40"/> </a> 
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/Dashboard/blob/main/icons-intellij-idea.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/Dashboard/blob/main/icons-visual-studio.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.apple.com/ios/ios-16/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/Dashboard/blob/main/icons-apple.svg" alt="git" width="40" height="40"/> </a>

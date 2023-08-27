@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # Hi! I'm Anton 👋
 [![Telegram Badge](https://img.shields.io/badge/-ferdoznik-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/ferdoznik)](https://t.me/ferdoznik)
 [![Linkedin Badge](https://img.shields.io/badge/-RagozinAnton-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-ragozin-ferdoznik/)](https://www.linkedin.com/in/anton-ragozin-ferdoznik/)
@@ -13,7 +17,7 @@ My speciality is manual front-end and UI tests for all sorts of Android and iOS 
 </p>
 
 *I write UI tests using Java, Selemiun, Appium, JUnit5.*
-
+#
 **My everyday tools:**
 <p align="left"> 
 <a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/ferdoznik/blob/main/icons/icons-java.svg" alt="git" width="30" height="40"/> </a>
@@ -34,6 +38,6 @@ My speciality is manual front-end and UI tests for all sorts of Android and iOS 
 
 I'm currently working for a company called **[E-soft](https://esoft.tech/)**. The company is developing mobile and web applications for one of the largest real estate agencies in Europe.
 
-🌍 Russian **(native)**, English **(C1)** - yeah, I'm that good.
+🌍 Russian **(native)**, English **(C1)**.
 
 

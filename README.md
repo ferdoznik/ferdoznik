@@ -1,7 +1,11 @@
-# Hi I'm Anton 👋
+# Hi! I'm Anton 👋
 [![Telegram Badge](https://img.shields.io/badge/-ferdoznik-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/ferdoznik)](https://t.me/ferdoznik)
 [![Linkedin Badge](https://img.shields.io/badge/-RagozinAnton-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-ragozin-ferdoznik/)](https://www.linkedin.com/in/anton-ragozin-ferdoznik/)
 [![Gmail Badge](https://img.shields.io/badge/-ferdoznik-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ferdoznik@gmail.com)](mailto:ferdoznik@gmail.com)
+
+QA/AQA Mobile Enginner.
+
+My speciality is manual front-end and UI tests for Android and iOS applications.
 
 I'm currently working for a company called **[E-soft](https://esoft.tech/)**. The company is developing mobile and web applications for one of the largest real estate agencies in Europe.
 

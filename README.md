@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-RagozinAnton-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-ragozin-ferdoznik/)](https://www.linkedin.com/in/anton-ragozin-ferdoznik/)
 [![Gmail Badge](https://img.shields.io/badge/-ferdoznik-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ferdoznik@gmail.com)](mailto:ferdoznik@gmail.com)
 
-QA/AQA Mobile Enginner.
+QA/AQA Mobile Engineer.
 
 My speciality is manual front-end and UI tests for all sorts of Android and iOS applications.
 

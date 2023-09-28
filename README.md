@@ -9,7 +9,7 @@
 
 QA/AQA Mobile Engineer.
 
-My speciality is manual front-end and UI tests for all sorts of Android and iOS applications.
+My speciality is manual front-end testing and UI tests for all sorts of Android and iOS applications.
 
 <p align="left"> 
 <a target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/ferdoznik/blob/main/icons/types%20of%20applications.svg" alt="figma" width="700" height="300"/> </a>

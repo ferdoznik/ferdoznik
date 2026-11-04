@@ -36,7 +36,7 @@ My speciality is manual front-end testing and UI tests for all sorts of Android 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/ferdoznik/ferdoznik/blob/main/icons/icons-figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
 
-I'm currently working for a company called **[E-soft](https://esoft.tech/)**. The company is developing mobile and web applications for one of the largest real estate agencies in Europe.
+I'm currently working for a company called **[Banco Plata](https://bancoplata.mx)**. The company is developing mobile and web applications for one of the largest real estate agencies in Europe.
 
 🌍 Russian **(native)**, English **(C1)**.
 
